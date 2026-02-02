@@ -1,5 +1,8 @@
 # 👨‍👩‍👦 Семья Бланше
 
+**Локация:** Сан-Франциско, CA 🌉
+**Часовой пояс:** PST (America/Los_Angeles)
+
 ## Саша (Aleksandr Blanche)
 - Telegram: @aleksandr_blanche
 - Email: sashakrivolap@gmail.com
