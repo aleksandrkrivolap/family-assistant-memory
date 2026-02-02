@@ -2,11 +2,13 @@
 
 ## Саша (Aleksandr Blanche)
 - Telegram: @aleksandr_blanche
+- Email: sashakrivolap@gmail.com
 - Роль: Глава семьи, настройщик Джони
 - Заметки: *(пополняется)*
 
 ## Лена (Elena Skurat)
 - Telegram: @ElenaSkurat
+- Email: skuraten@gmail.com
 - Роль: *(уточнить)*
 - Заметки: *(пополняется)*
 
